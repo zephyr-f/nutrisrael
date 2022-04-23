@@ -6,7 +6,7 @@ const getNutri = async () => {
     const response = await axios.get(
       `https://data.gov.il/api/3/action/datastore_search?resource_id=c3cb0630-0650-46c1-a068-82d575c094b2&q=${userInput}`
     );
-    const answer = response.data.result.records; // .map(x => x.shmmitzrach);
+    const answer = response.data.result.records.map(x => x.shmmitzrach);
     console.log(answer);
     console.log(answer.length);
     ansPlace.innerHTML = answer;
