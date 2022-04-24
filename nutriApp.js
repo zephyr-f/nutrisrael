@@ -33,12 +33,3 @@ const getNutri = async () => {
   }
 };
 getNutri();
-
-listen () => {
-  nuTable ()
-  const resItems = document.getElementsByClassName('res');
-  for (let i = 0; i < resItems.length; i++) {
-      console.log(sml);
-      resItems[i].addEventListener('click', nuTable)
-    }
-}
