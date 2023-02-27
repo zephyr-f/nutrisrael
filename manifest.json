@@ -7,7 +7,7 @@
   "orientation": "any",
   "scope": "/",
   "short_name": "Nutrition Israel",
-  "start_url": "/",
+  "start_url": "nutrisrael/",
   "theme_color": "#2fd623",
   "categories": [
     "fitness",
