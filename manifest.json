@@ -1,0 +1,27 @@
+{
+  "background_color": "#515151",
+  "description": "ערכים תזונתיים ממאגר של משרד הבריאות",
+  "dir": "auto",
+  "display": "standalone",
+  "name": "תזונה ישראל",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Nutrition Israel",
+  "start_url": "/",
+  "theme_color": "#2fd623",
+  "categories": [
+    "fitness",
+    "food",
+    "health"
+  ],
+  "screenshots": [],
+  "icons": [
+    {
+      "src": "nutri.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "shortcuts": [],
+  "lang": "he"
+}
