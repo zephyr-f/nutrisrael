@@ -5,9 +5,9 @@
   "display": "standalone",
   "name": "תזונה ישראל",
   "orientation": "any",
-  "scope": "/",
+  "scope": ".",
   "short_name": "Nutrition Israel",
-  "start_url": "index.html",
+  "start_url": "./",
   "theme_color": "#2fd623",
   "categories": [
     "fitness",
